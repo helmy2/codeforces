@@ -4,7 +4,7 @@ import java.util.*
 
 fun main() {
     val scanner = Scanner(System.`in`)
-    val n = scanner.nextInt()
+    scanner.nextInt()
     val list = scanner.next()
 
     val antonNumber =  list.count { it == 'A' }

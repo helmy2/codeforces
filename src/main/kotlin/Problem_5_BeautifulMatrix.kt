@@ -3,6 +3,7 @@ import kotlin.math.abs
 
 //https://codeforces.com/contest/263/problem/A
 fun main() {
+    readLine()
     val scanner = Scanner(System.`in`)
     val array = Array(5) {
         Array(5) {
@@ -18,6 +19,4 @@ fun main() {
 
     val n = abs(index.first - 2) + abs(index.second - 2)
     print(n)
-
-
 }

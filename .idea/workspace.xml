@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="638d89af-362a-4688-ba7a-2b4d52327967" name="Changes" comment="add problem 3, 4 and 5">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_6_GravityFlip.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_7_PetyaAndStrings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_8_BoyorGirl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_10_Magnets.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_9_Word.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Problem_5_BeautifulMatrix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_5_BeautifulMatrix.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +62,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Educational" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "D:/Codeing/Projects/codeforces/src/main/kotlin",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codeing\Projects\codeforces\src\main\kotlin" />
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -83,16 +80,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem_8_BoyorGirlKt">
-    <configuration name="Problem_4_TeamKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_4_TeamKt" />
-      <module name="codeforces.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_5_BeautifulMatrixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_5_BeautifulMatrixKt" />
+  <component name="RunManager" selected="Kotlin.Problem_10_MagnetsKt">
+    <configuration name="Problem_10_MagnetsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_10_MagnetsKt" />
       <module name="codeforces.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,13 +109,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_9_WordKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_9_WordKt" />
+      <module name="codeforces.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem_10_MagnetsKt" />
+        <item itemvalue="Kotlin.Problem_9_WordKt" />
         <item itemvalue="Kotlin.Problem_8_BoyorGirlKt" />
         <item itemvalue="Kotlin.Problem_7_PetyaAndStringsKt" />
         <item itemvalue="Kotlin.Problem_6_GravityFlipKt" />
-        <item itemvalue="Kotlin.Problem_5_BeautifulMatrixKt" />
-        <item itemvalue="Kotlin.Problem_4_TeamKt" />
       </list>
     </recent_temporary>
   </component>

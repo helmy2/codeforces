@@ -1,18 +1,12 @@
 fun main() {
     val n = readLine()!!.toInt()
-    val list = mutableListOf<String>()
+    var a: String
+    var b = "  "
+    var c = 1
     repeat(n) {
-        list += readLine()!!
+        a = readLine()!!
+        if (a[1] == b[0]) c += 1
+        b = a
     }
-    var numberOfGroups = 1
-    var isGroup = false
-    for (i in 0 until list.size - 1) {
-        if (list[i][1] == list[i + 1][0])
-            isGroup = true
-        if (isGroup) {
-            isGroup = false
-            numberOfGroups += 1
-        }
-    }
-    print(numberOfGroups)
+    print(c)
 }

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="638d89af-362a-4688-ba7a-2b4d52327967" name="Changes" comment="add problem 9, 10">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_12_StonesOnTheTable.kt" afterDir="false" />
+    <list default="true" id="638d89af-362a-4688-ba7a-2b4d52327967" name="Changes" comment="add problem 12">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_13_PoliceRecruits.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem_12_StonesOnTheTableKt">
+  <component name="RunManager" selected="Kotlin.Problem_13_PoliceRecruitsKt">
     <configuration name="Problem_10_MagnetsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem_10_MagnetsKt" />
       <module name="codeforces.main" />
@@ -100,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_8_BoyorGirlKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_8_BoyorGirlKt" />
+    <configuration name="Problem_13_PoliceRecruitsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_13_PoliceRecruitsKt" />
       <module name="codeforces.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem_13_PoliceRecruitsKt" />
         <item itemvalue="Kotlin.Problem_12_StonesOnTheTableKt" />
         <item itemvalue="Kotlin.Problem_11_SerejaAndDimaKt" />
         <item itemvalue="Kotlin.Problem_10_MagnetsKt" />
         <item itemvalue="Kotlin.Problem_9_WordKt" />
-        <item itemvalue="Kotlin.Problem_8_BoyorGirlKt" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654626413313</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add problem 12">
+      <created>1655007984354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655007984354</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +209,8 @@
     <MESSAGE value="rename file" />
     <MESSAGE value="add problem 3, 4 and 5" />
     <MESSAGE value="add problem 9, 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add problem 9, 10" />
+    <MESSAGE value="add problem 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="add problem 12" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="638d89af-362a-4688-ba7a-2b4d52327967" name="Changes" comment="add problem 9, 10">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_11_SerejaAndDima.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_12_StonesOnTheTable.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Problem_10_Magnets.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Problem_10_Magnets.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Codeing/Projects/codeforces/src/main/kotlin&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
@@ -76,7 +78,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem_11_SerejaAndDimaKt">
+  <component name="RunManager" selected="Kotlin.Problem_12_StonesOnTheTableKt">
     <configuration name="Problem_10_MagnetsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem_10_MagnetsKt" />
       <module name="codeforces.main" />
@@ -91,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_7_PetyaAndStringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_7_PetyaAndStringsKt" />
+    <configuration name="Problem_12_StonesOnTheTableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_12_StonesOnTheTableKt" />
       <module name="codeforces.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem_12_StonesOnTheTableKt" />
         <item itemvalue="Kotlin.Problem_11_SerejaAndDimaKt" />
         <item itemvalue="Kotlin.Problem_10_MagnetsKt" />
         <item itemvalue="Kotlin.Problem_9_WordKt" />
         <item itemvalue="Kotlin.Problem_8_BoyorGirlKt" />
-        <item itemvalue="Kotlin.Problem_7_PetyaAndStringsKt" />
       </list>
     </recent_temporary>
   </component>
